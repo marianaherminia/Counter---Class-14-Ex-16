@@ -1,0 +1,24 @@
+body {
+    background: rgb(74, 74, 212);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white; /*é a cor da fonte*/
+    text-align: center; /*centraliza o texto*/
+}
+
+section {
+    background: white; 
+    border-radius: 10px; /*Borda arredondada*/
+    padding: 15px; /*Da espaço dentro*/
+    width: 500px;/*largura fixa*/
+    margin: auto;/*centralizar*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.322);
+}
+
+footer {
+    color: white;
+    text-align: center; /*centraliza o texto*/
+    font-style: normal;
+}
